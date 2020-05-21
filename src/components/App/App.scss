@@ -1,0 +1,14 @@
+#App{
+    display: flex;
+    height: 50vh;
+    width: 100vw;
+    justify-content: center;
+    
+    .wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 400px;
+
+    }
+}
